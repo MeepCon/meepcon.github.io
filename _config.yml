@@ -14,7 +14,7 @@ author: Alec Hammond, Ardavan Oskooi, Mo Chen, Steven Johnson
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "index.md"
+  Home: "https://meepcon.github.io/"
   Location: "#Location"
   Schedule: "#Schedule"
   Invited Speakers: "#Speakers"
@@ -43,13 +43,13 @@ navbar-links:
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+#  email: "someone@example.com"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
   github: NanoComp/meep
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
