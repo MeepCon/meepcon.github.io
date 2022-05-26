@@ -16,9 +16,14 @@ public via a live online broadcast. Registration is required (in-person capacity
 - [Apratim Majumder](https://faculty.utah.edu/u0720363-Apratim_Majumder/hm/index.hml) (University of Utah) — Diffractive structures
 - [Mohammed Benzaouia](https://scholar.google.com/citations?user=cPqTYcwAAAAJ&hl=en) (Stanford) — Laser modeling and analysis
 
-## Location and schedule
+## Location
 
-The detailed schedule will be released soon, but the events will take place both [at MIT](https://web.mit.edu/) in Cambridge, MA and also virtually with a Zoom link provided to registered attendees.
+The events will take place both [at MIT](https://web.mit.edu/) in Cambridge, MA (capacity limited) and also virtually with a Zoom link provided to registered attendees.
+
+Attendees must arrange their own accommodations/transport; see [Visiting MIT](https://www.mit.edu/visitmit/) for more information.  [MIT visitor passes](https://covidapps.mit.edu/visitors) will be provided to registered in-person attendees.
+
+## Schedule
+(Detailed schedule TBA.)
 - Monday July 27: Tutorial workshops, 9am–5pm (EDT)
 - Tuesday July 28: Technical talks, 9am–5pm (EDT)
 - Wednesday July 29: Developer session/hackathobn, 9am–5pm (EDT)
