@@ -8,12 +8,12 @@ public via a live online broadcast. Registration is required (in-person capacity
 
 ## <a name="Speakers"></a> Confirmed Speakers
 
-- [Steven G. Johnson](https://math.mit.edu/~stevenj/) (MIT)
-- [Alec Hammond](https://scholar.google.com/citations?user=ct1EWzQAAAAJ&hl=en) (Georgia Tech)
-- [Ryan Camacho](https://camacholab.byu.edu/directory/ryan-camacho) (Brigham Young University)
-- [Joaquin Matres](https://www.jmatres.com/) (X/Google)
-- [Villads Egede Johansen](https://scholar.google.dk/citations?user=n5SzpdMAAAAJ&hl=en) (NIL Technologies)
-- [Apratim Majumder](https://faculty.utah.edu/u0720363-Apratim_Majumder/hm/index.hml) (University of Utah)
-- [Mohammed Benzaouia](https://scholar.google.com/citations?user=cPqTYcwAAAAJ&hl=en) (Stanford)
+- [Steven G. Johnson](https://math.mit.edu/~stevenj/) (MIT) — Overview and introduction
+- [Alec Hammond](https://scholar.google.com/citations?user=ct1EWzQAAAAJ&hl=en) (Georgia Tech) — [Topology optimization in Meep](http://doi.org/10.1364/OE.442074)
+- [Ryan Camacho](https://camacholab.byu.edu/directory/ryan-camacho) (Brigham Young University) — Quantum integrated photonics
+- [Joaquin Matres](https://www.jmatres.com/) (X/Google) — Large-scale photonic integrated circuits
+- [Villads Egede Johansen](https://scholar.google.dk/citations?user=n5SzpdMAAAAJ&hl=en) (NIL Technologies) — Metasurfaces in Meep
+- [Apratim Majumder](https://faculty.utah.edu/u0720363-Apratim_Majumder/hm/index.hml) (University of Utah) — Diffractive structures
+- [Mohammed Benzaouia](https://scholar.google.com/citations?user=cPqTYcwAAAAJ&hl=en) (Stanford) — Laser modeling and analysis
 
 ## <a name="Registration"></a> Registration
