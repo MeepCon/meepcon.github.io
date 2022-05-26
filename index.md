@@ -31,3 +31,9 @@ Attendees must arrange their own accommodations/transport; see [Visiting MIT](ht
 ## <a name="Registration"></a> Registration
 
 Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdBNFdJau8tl6FMtjNscItTKwS5tEv2T9CQAxTfycMrs-94nA/viewform?usp=sf_link).
+
+## Organizers
+
+Steven Johnson
+Ardavan Oskooi
+Alec Hammond
