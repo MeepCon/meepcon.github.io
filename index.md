@@ -1,7 +1,7 @@
 ---
 layout: page
-cover-img: /assets/img/meepcon_banner.png
 ---
+![Meep](/assets/img/meepcon_banner.png)
 
 Introduction text goes here...
 ## <a name="Location"></a> Location and Format
