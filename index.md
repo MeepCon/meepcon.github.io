@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MeepCon 2022
+cover-img: https://github.com/MeepCon/meepcon.github.io/blob/master/assets/img/meepcon_banner.png
 ---
 ![Meep](https://meep.readthedocs.io/en/latest/images/Meep-banner.png)
 
