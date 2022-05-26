@@ -16,6 +16,8 @@ author: Alec Hammond, Ardavan Oskooi, Mo Chen, Steven Johnson
 navbar-links:
   Home: "https://meepcon.github.io/"
   Invited Speakers: "#Speakers"
+  Location: "#Location"
+  Schedule: "#Schedule"
   Registration: "#Registration"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
