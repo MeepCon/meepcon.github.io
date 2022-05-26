@@ -18,7 +18,7 @@ public via a live online broadcast. Registration is required (in-person capacity
 
 ## <a name="Location"></a> Location
 
-The events will take place both [at MIT](https://web.mit.edu/) in Cambridge, MA (capacity limited) and also virtually with a Zoom link provided to registered attendees.
+The events will take place both [at MIT](https://web.mit.edu/) in Cambridge, MA (capacity limited) and also virtually with a videoconference link provided to registered attendees.
 
 Attendees must arrange their own accommodations/transport; see [Visiting MIT](https://www.mit.edu/visitmit/) for more information.  [MIT visitor passes](https://covidapps.mit.edu/visitors) will be provided to registered in-person attendees.
 
