@@ -34,8 +34,6 @@ Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdBNFdJau8tl6FMtjNscItT
 
 ## Organizers
 
-Steven Johnson
-
-Ardavan Oskooi
-
-Alec Hammond
+- Steven Johnson (Massachusetts Institute of Technology)
+- Ardavan Oskooi (Google)
+- Alec Hammond (Georgia Institute of Technology)
