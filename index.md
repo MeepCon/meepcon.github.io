@@ -17,15 +17,15 @@ The inaugural Meep user and developer conference (MeepCon) will be held from Jul
 
 ## <a name="Location"></a> Location
 
-The events will take place both at [MIT](https://web.mit.edu/) in Cambridge, MA (capacity limited) and also virtually with a videoconference link provided to registered attendees.
+The events will take place at [MIT](https://web.mit.edu/) in Cambridge, MA (capacity limited) and also virtually with a videoconference link provided to registered attendees.
 
 Attendees must arrange their own accommodations/transport; see [Visiting MIT](https://www.mit.edu/visitmit/) for more information.  [MIT visitor passes](https://covidapps.mit.edu/visitors) will be provided to registered in-person attendees.
 
 ## <a name="Schedule"></a> Schedule
 (Detailed schedule TBA.)
-- Monday July 27: Tutorial workshops, 9am–5pm (EDT)
-- Tuesday July 28: Technical talks, 9am–5pm (EDT)
-- Wednesday July 29: Developer session/hackathon, 9am–5pm (EDT)
+- Wednesday July 27: Tutorial workshops, 9am–5pm (EDT)
+- Thursday July 28: Technical talks, 9am–5pm (EDT)
+- Friday July 29: Developer session/hackathon, 9am–5pm (EDT)
 
 ## <a name="Registration"></a> Registration
 
@@ -34,5 +34,5 @@ Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdBNFdJau8tl6FMtjNscItT
 ## Organizers
 
 - Steven G. Johnson (Massachusetts Institute of Technology)
-- Ardavan Oskooi (Google)
+- [Ardavan Oskooi](http://ab-initio.mit.edu/~oskooi/) (Google)
 - Alec Hammond (Georgia Institute of Technology)
