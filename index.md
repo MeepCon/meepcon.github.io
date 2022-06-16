@@ -13,7 +13,8 @@ The inaugural Meep user and developer conference (MeepCon) will be held from Jul
 - [Joaquin Matres](https://www.jmatres.com/) (X/Google) — Large-scale photonic integrated circuits
 - [Villads Egede Johansen](https://scholar.google.dk/citations?user=n5SzpdMAAAAJ&hl=en) (NIL Technologies) — Metasurfaces
 - [Apratim Majumder](https://faculty.utah.edu/u0720363-Apratim_Majumder/hm/index.hml) (University of Utah) — Diffractive structures
-- [Mohammed Benzaouia](https://scholar.google.com/citations?user=cPqTYcwAAAAJ&hl=en) (Stanford) — Laser modeling and analysis
+- [Mohammed Benzaouia](https://scholar.google.com/citations?user=cPqTYcwAAAAJ&hl=en) (Stanford University) — Laser modeling and analysis
+- [Kurt Busch](https://top.physik.hu-berlin.de/people/kurt-busch) (Humboldt University of Berlin) — Advances in finite-element time-domain simulations
 
 ## <a name="Location"></a> Location
 
@@ -30,6 +31,8 @@ Attendees must arrange their own accommodations/transport; see [Visiting MIT](ht
 ## <a name="Registration"></a> Registration
 
 Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdBNFdJau8tl6FMtjNscItTKwS5tEv2T9CQAxTfycMrs-94nA/viewform?usp=sf_link).
+
+Deadline for in-person registration is July 15, 2022.
 
 ## Organizers
 
