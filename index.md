@@ -11,7 +11,6 @@ The inaugural Meep user and developer conference (MeepCon) will be held from Jul
 - [Alec Hammond](https://scholar.google.com/citations?user=ct1EWzQAAAAJ&hl=en) (Georgia Tech) — [Topology optimization and inverse design](http://doi.org/10.1364/OE.442074)
 - [Ryan Camacho](https://camacholab.byu.edu/directory/ryan-camacho) (Brigham Young University) — Quantum integrated photonics
 - [Joaquin Matres](https://www.jmatres.com/) (X/Google) — Large-scale photonic integrated circuits
-- [Villads Egede Johansen](https://scholar.google.dk/citations?user=n5SzpdMAAAAJ&hl=en) (NIL Technologies) — Metasurfaces
 - [Apratim Majumder](https://faculty.utah.edu/u0720363-Apratim_Majumder/hm/index.hml) (University of Utah) — Diffractive structures
 - [Mohammed Benzaouia](https://scholar.google.com/citations?user=cPqTYcwAAAAJ&hl=en) (Stanford University) — Laser modeling and analysis
 - [Kurt Busch](https://top.physik.hu-berlin.de/people/kurt-busch) (Humboldt University of Berlin) — Advances in finite-element time-domain simulations
