@@ -23,10 +23,21 @@ The events will take place at [MIT](https://web.mit.edu/) in Cambridge, MA (capa
 Attendees must arrange their own accommodations/transport; see [Visiting MIT](https://www.mit.edu/visitmit/) for more information.  [MIT visitor passes](https://covidapps.mit.edu/visitors) will be provided to registered in-person attendees.
 
 ## <a name="Schedule"></a> Schedule
-(Detailed schedule TBA.)
+
 - Wednesday July 27: Tutorial workshops, 9am–5pm (EDT)
-- Thursday July 28: Technical talks, 9am–5pm (EDT)
-- Friday July 29: Developer session/hackathon, 9am–5pm (EDT)
+| **time (Boston local)** |                       **session**                       |     **presenter**    |
+|:-----------------------:|:-------------------------------------------------------:|:--------------------:|
+|      09:00 - 10:15      |  Tutorial #1: Large-Scale Photonic Integrated Circuits  | Joaquin Matres Abril |
+|      10:15 - 10:30      |                       Coffee Break                      |                      |
+|      10:30 - 11:45      | Tutorial #2: Diffraction Efficiency of a Binary Grating |    Ardavan Oskooi    |
+|      11:45 - 13:00      |                          Lunch                          |                      |
+|      13:00 - 14:15      |     Tutorial #3: Inverse Design of a Power Splitter     |     Alec Hammond     |
+|      14:15 - 14:30      |                       Coffee Break                      |                      |
+|      14:30 - 15:45      |    Tutorial #4: Inverse Design of a Metasurface Lens    |        Mo Chen       |
+|      15:45 - 17:00      |                           Q&A                           |                      |
+
+- Thursday July 28: Technical talks, 9am–5pm (EDT), (Detailed schedule TBA.)
+- Friday July 29: Developer session/hackathon, 9am–5pm (EDT), (Detailed schedule TBA.)
 
 ## <a name="Registration"></a> Registration
 
