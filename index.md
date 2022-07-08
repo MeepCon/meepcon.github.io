@@ -1,5 +1,6 @@
 ---
 layout: page
+title: MeepCon 2022
 ---
 ![Meep](/assets/img/meepcon_banner.png)
 
@@ -25,6 +26,7 @@ Attendees must arrange their own accommodations/transport; see [Visiting MIT](ht
 ## <a name="Schedule"></a> Schedule
 
 - Wednesday July 27: Tutorial workshops, 9am–5pm (EDT)
+
 | **time (Boston local)** |                       **session**                       |     **presenter**    |
 |:-----------------------:|:-------------------------------------------------------:|:--------------------:|
 |      09:00 - 10:15      |  Tutorial #1: Large-Scale Photonic Integrated Circuits  | Joaquin Matres Abril |
