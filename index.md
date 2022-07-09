@@ -24,7 +24,7 @@ Attendees must arrange their own accommodations/transport; see [Visiting MIT](ht
 
 ## <a name="Schedule"></a> Schedule
 
-- Wednesday July 27: Tutorial workshops, 9am–5pm (EDT)
+Day 1 - Wednesday July 27: Tutorial workshops, 09:00-17:00 EDT
 
 |    **time**   |                       **session**                       |     **presenter**    |
 |:-------------:|:-------------------------------------------------------:|:--------------------:|
@@ -38,8 +38,9 @@ Attendees must arrange their own accommodations/transport; see [Visiting MIT](ht
 | 15:45 - 17:00 |                           Q&A                           |                      |
 
 
-- Thursday July 28: Technical talks, 9am–5pm (EDT), (Detailed schedule TBA.)
-- Friday July 29: Developer session/hackathon, 9am–5pm (EDT), (Detailed schedule TBA.)
+
+Day 2 - Thursday July 28: Technical talks, 09:00-17:00 EDT, (Detailed schedule TBA.)
+Day 3 - Friday July 29: Developer session/hackathon, 09:00-17:00 EDT, (Detailed schedule TBA.)
 
 ## <a name="Registration"></a> Registration
 
@@ -52,3 +53,11 @@ Deadline for in-person registration is July 15, 2022.
 - Steven G. Johnson (Massachusetts Institute of Technology)
 - [Ardavan Oskooi](http://ab-initio.mit.edu/~oskooi/) (Google)
 - Alec Hammond (Georgia Institute of Technology)
+
+## Code of Conduct
+
+The Meep user and developer conference is a professional forum devoted to the growth and enhancement of the Meep open-source software package for electromagnetic simulation. This event is intended to be a gathering of scientists and engineers who use Meep as part of their daily work involving photonics research and development as well as related technical fields.
+
+Participants are expected to behave in a respectful and courteous manner at all times. Questions and comments for the session speakers should be brief and to the point. Conduct that is deemed counterproductive to the objectives and sprit of the conference, including disruptions and use of inappropriate language, are not allowed.
+
+The organizers reserve the right to deny entry or expel at any time any participant from the conference.
