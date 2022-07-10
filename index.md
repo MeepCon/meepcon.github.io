@@ -56,8 +56,8 @@ Deadline for in-person registration is July 15, 2022.
 
 ## Code of Conduct
 
-The Meep user and developer conference is a professional forum devoted to the growth and enhancement of the Meep open-source software package for electromagnetic simulation. This event is intended to be a gathering of scientists and engineers who use Meep as part of their daily work involving photonics research and development as well as related technical fields.
+The Meep user and developer conference is a professional forum devoted to the growth and enhancement of the Meep open-source software package for electromagnetic simulation. This event is intended to be a collegial gathering of scientists and engineers who use Meep as part of their daily work involving photonics research and development as well as related technical fields.
 
-Participants are expected to behave in a respectful and courteous manner at all times. Questions and comments for the session speakers should be brief and to the point. Conduct that is deemed counterproductive to the objectives and sprit of the conference, including disruptions and use of inappropriate language, are not allowed.
+At all times, participants are expected to (1) behave in a respectful and courteous manner and (2) identify themselves using their real name and current affiliation. Questions and comments for the session speakers should be brief and to the point. Conduct that is deemed counterproductive to the objectives and sprit of the conference, including for example disruptions and use of inappropriate language, may be grounds for dismissal.
 
-The organizers reserve the right to deny entry or expel at any time any participant from the conference.
+The organizers reserve the right to prohibit entry to anyone and to expel, at any time, any participant from the conference.
