@@ -3,7 +3,7 @@ layout: page
 ---
 ![Meep](/assets/img/meepcon_banner.png)
 
-The inaugural Meep user and developer conference (MeepCon) will be held from July 27-29, 2022 in a hybrid onsite/virtual format hosted at the Massachusetts Institute of Technology (MIT) in Cambridge, MA. The focus of this year's conference is *applications and advances in electromagnetic modeling using Meep*. The three-day event consists of tutorials (July 27), technical talks (July 28), and a developer meeting (July 29). The conference is free of charge and open to the public via a live online broadcast. Registration is required (in-person capacity may be limited). Sessions for the tutorials and technical talks will be recorded and archived.
+The inaugural Meep user and developer conference (MeepCon) will be held from July 27-29, 2022 in a hybrid onsite/virtual format hosted at the Massachusetts Institute of Technology (MIT) in Cambridge, MA. The focus of this year's conference is *applications and advances in electromagnetic modeling using Meep*. The three-day event consists of tutorials (July 27), technical talks (July 28), and a developer meeting (July 29). The conference is free of charge and open to the public via a live online broadcast. Registration is required (in-person capacity may be limited). All sessions for the tutorials and technical talks will be recorded and archived.
 
 ## <a name="Speakers"></a> Confirmed Speakers
 
