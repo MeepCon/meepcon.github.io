@@ -7,14 +7,15 @@ The inaugural Meep user and developer conference (MeepCon) will be held from Jul
 
 ## <a name="Speakers"></a> Confirmed Speakers
 
-- [Steven G. Johnson](https://math.mit.edu/~stevenj/) (MIT) — Overview and introduction
-- [Alec Hammond](https://scholar.google.com/citations?user=ct1EWzQAAAAJ&hl=en) (Georgia Tech) — [Topology optimization and inverse design](http://doi.org/10.1364/OE.442074)
-- [Ryan Camacho](https://camacholab.byu.edu/directory/ryan-camacho) (Brigham Young University) — Quantum integrated photonics
-- [Joaquin Matres](https://www.jmatres.com/) (X/Google) — Large-scale photonic integrated circuits
-- [Apratim Majumder](https://faculty.utah.edu/u0720363-Apratim_Majumder/hm/index.hml) (University of Utah) — Diffractive structures
-- [Mohammed Benzaouia](https://scholar.google.com/citations?user=cPqTYcwAAAAJ&hl=en) (Stanford University) — Laser modeling and analysis
-- [Kurt Busch](https://top.physik.hu-berlin.de/people/kurt-busch) (Humboldt University of Berlin) — Advances in finite-element time-domain simulations
-- [Jordan C. Hanson](https://scholar.google.com/citations?user=WXC3DeEAAAAJ&hl=en) (Whittier College) — Broadband radio-frequency (RF) antenna phased arrays
+- [Steven G. Johnson](https://math.mit.edu/~stevenj/) (MIT) — Overview and Introduction
+- [Alec Hammond](https://scholar.google.com/citations?user=ct1EWzQAAAAJ&hl=en) (Georgia Tech) — [Topology Optimization and Inverse Design](http://doi.org/10.1364/OE.442074)
+- [Ryan Camacho](https://camacholab.byu.edu/directory/ryan-camacho) (Brigham Young University) — Quantum Integrated Photonics
+- [Joaquin Matres](https://www.jmatres.com/) (X/Google) — Large-Scale Photonic Integrated Circuits
+- [Apratim Majumder](https://faculty.utah.edu/u0720363-Apratim_Majumder/hm/index.hml) (University of Utah) — Diffractive Structures for Imaging
+- [Mohammed Benzaouia](https://scholar.google.com/citations?user=cPqTYcwAAAAJ&hl=en) (Stanford University) — Laser Modeling and Analysis
+- [Kurt Busch](https://top.physik.hu-berlin.de/people/kurt-busch) (Humboldt University of Berlin) — Advances in Finite-Element Time-Domain Simulations
+- [Jordan C. Hanson](https://scholar.google.com/citations?user=WXC3DeEAAAAJ&hl=en) (Whittier College) — Broadband Radio-Frequency (RF) Antenna Phased Arrays
+- [Zin Lin](https://scholar.google.com/citations?user=3ZgzHLYAAAAJ&hl=en) (Virginia Tech) - End-to-End Nanophotonic Inverse Design for Imaging and Polarimetry
 
 ## <a name="Location"></a> Location
 
@@ -24,23 +25,39 @@ Attendees must arrange their own accommodations/transport; see [Visiting MIT](ht
 
 ## <a name="Schedule"></a> Schedule
 
-Day 1 - Wednesday July 27: Tutorial workshops, 09:00-17:00 EDT
+Day 1 - Wednesday July 27: Tutorial Workshops, 09:00-17:00 EDT
 
-|    **time**   |                       **session**                       |     **presenter**    |
-|:-------------:|:-------------------------------------------------------:|:--------------------:|
-| 09:00 - 10:15 |  Tutorial #1: Large-Scale Photonic Integrated Circuits  | Joaquin Matres Abril |
-| 10:15 - 10:30 |                       Coffee Break                      |                      |
-| 10:30 - 11:45 | Tutorial #2: Diffraction Efficiency of a Binary Grating |    Ardavan Oskooi    |
-| 11:45 - 13:00 |                          Lunch                          |                      |
-| 13:00 - 14:15 |     Tutorial #3: Inverse Design of a Power Splitter     |     Alec Hammond     |
-| 14:15 - 14:30 |                       Coffee Break                      |                      |
-| 14:30 - 15:45 |    Tutorial #4: Inverse Design of a Metasurface Lens    |        Mo Chen       |
-| 15:45 - 17:00 |                           Q&A                           |                      |
+|    **time**   |                       **session**                       |          **presenter**          |
+|:-------------:|:-------------------------------------------------------:|:-------------------------------:|
+| 09:00 - 10:15 |  Tutorial #1: Large-Scale Photonic Integrated Circuits  | Joaquin Matres Abril (X/Google) |
+| 10:15 - 10:30 |                       Coffee Break                      |                                 |
+| 10:30 - 11:45 | Tutorial #2: Diffraction Efficiency of a Binary Grating |     Ardavan Oskooi (Google)     |
+| 11:45 - 13:00 |                          Lunch                          |                                 |
+| 13:00 - 14:15 |     Tutorial #3: Inverse Design of a Power Splitter     |   Alec Hammond (Georgia Tech)   |
+| 14:15 - 14:30 |                       Coffee Break                      |                                 |
+| 14:30 - 15:45 |    Tutorial #4: Inverse Design of a Metasurface Lens    |          Mo Chen (MIT)          |
+| 15:45 - 17:00 |                           Q&A                           |                                 |
 
 
+Day 2 - Thursday July 28: Technical Talks, 09:00-17:00 EDT
 
-Day 2 - Thursday July 28: Technical talks, 09:00-17:00 EDT, (Detailed schedule TBA.)
-Day 3 - Friday July 29: Developer session/hackathon, 09:00-17:00 EDT, (Detailed schedule TBA.)
+|    **time**   |            **presenter**            |                      **presentation**                      |
+|:-------------:|:-----------------------------------:|:----------------------------------------------------------:|
+| 09:00 - 09:45 |       Steven G. Johnson (MIT)       |                  Introduction and Overview                 |
+| 09:45 - 10:30 |    Alec M. Hammond (Georgia Tech)   |          Topology Optimization and Inverse Design          |
+| 10:30 - 10:45 |             Coffee Break            |                                                            |
+| 10:45 - 11:15 |  Kurt Busch (Humboldt U. of Berlin) |     Advances in Finite-Element Time-Domain Simulations     |
+| 11:15 - 12:00 |       Zin Lin (Virginia Tech)       | End-to-End Nanophotonic Design for Imaging and Polarimetry |
+| 12:00 - 13:00 |             Lunch Break             |                                                            |
+| 13:00 - 13:45 |          Ryan Camacho (BYU)         |                Quantum Integrated Photonics                |
+| 13:45 - 14:30 |      Apratim Majumdar (U. Utah)     |             Diffractive Structures for Imaging             |
+| 14:30 - 14:45 |             Coffee Break            |                                                            |
+| 14:45 - 15:30 |    Mohammed Benzaouia (Stanford)    |                 Laser Modeling and Analysis                |
+| 15:30 - 16:15 | Jordan C. Hanson (Whittier College) |    Broadband Radio-Frequency (RF) Antenna Phased Arrays    |
+| 16:15 - 16:25 |       Ardavan Oskooi (Google)       |                       Closing Remarks                      |
+
+
+Day 3 - Friday July 29: Developer Session/Hackathon, 09:00-17:00 EDT, (Detailed schedule provided to participants only)
 
 ## <a name="Registration"></a> Registration
 
