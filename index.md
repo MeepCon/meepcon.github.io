@@ -41,20 +41,20 @@ Day 1 - Wednesday July 27: Tutorial Workshops, 09:00-17:00 EDT
 
 Day 2 - Thursday July 28: Technical Talks, 09:00-17:00 EDT
 
-|    **time**   |            **presenter**            |                      **presentation**                      |
-|:-------------:|:-----------------------------------:|:----------------------------------------------------------:|
-| 09:00 - 09:45 |       Steven G. Johnson (MIT)       |                  Introduction and Overview                 |
-| 09:45 - 10:30 |    Alec M. Hammond (Georgia Tech)   |          Topology Optimization and Inverse Design          |
-| 10:30 - 10:45 |             Coffee Break            |                                                            |
-| 10:45 - 11:15 |  Kurt Busch (Humboldt U. of Berlin) |     Advances in Finite-Element Time-Domain Simulations     |
-| 11:15 - 12:00 |       Zin Lin (Virginia Tech)       | End-to-End Nanophotonic Design for Imaging and Polarimetry |
-| 12:00 - 13:00 |             Lunch Break             |                                                            |
-| 13:00 - 13:45 |          Ryan Camacho (BYU)         |                Quantum Integrated Photonics                |
-| 13:45 - 14:30 |      Apratim Majumdar (U. Utah)     |             Diffractive Structures for Imaging             |
-| 14:30 - 14:45 |             Coffee Break            |                                                            |
-| 14:45 - 15:30 |    Mohammed Benzaouia (Stanford)    |                 Laser Modeling and Analysis                |
-| 15:30 - 16:15 | Jordan C. Hanson (Whittier College) |    Broadband Radio-Frequency (RF) Antenna Phased Arrays    |
-| 16:15 - 16:25 |       Ardavan Oskooi (Google)       |                       Closing Remarks                      |
+|    **time**   |                         **session**                        |            **presenter**            |
+|:-------------:|:----------------------------------------------------------:|:-----------------------------------:|
+| 09:00 - 09:45 |                  Introduction and Overview                 |       Steven G. Johnson (MIT)       |
+| 09:45 - 10:30 |          Topology Optimization and Inverse Design          |    Alec M. Hammond (Georgia Tech)   |
+| 10:30 - 10:45 |                        Coffee Break                        |                                     |
+| 10:45 - 11:15 |     Advances in Finite-Element Time-Domain Simulations     |  Kurt Busch (Humboldt U. of Berlin) |
+| 11:15 - 12:00 | End-to-End Nanophotonic Design for Imaging and Polarimetry |       Zin Lin (Virginia Tech)       |
+| 12:00 - 13:00 |                         Lunch Break                        |                                     |
+| 13:00 - 13:45 |                Quantum Integrated Photonics                |          Ryan Camacho (BYU)         |
+| 13:45 - 14:30 |             Diffractive Structures for Imaging             |      Apratim Majumder (U. Utah)     |
+| 14:30 - 14:45 |                        Coffee Break                        |                                     |
+| 14:45 - 15:30 |                 Laser Modeling and Analysis                |    Mohammed Benzaouia (Stanford)    |
+| 15:30 - 16:15 |    Broadband Radio-Frequency (RF) Antenna Phased Arrays    | Jordan C. Hanson (Whittier College) |
+| 16:15 - 16:25 |                       Closing Remarks                      |       Ardavan Oskooi (Google)       |
 
 
 Day 3 - Friday July 29: Developer Session/Hackathon, 09:00-17:00 EDT, (Detailed schedule provided to participants only)
