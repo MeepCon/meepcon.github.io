@@ -3,7 +3,7 @@ layout: page
 ---
 ![Meep](/assets/img/meepcon_banner.png)
 
-The inaugural Meep user and developer conference (MeepCon) will be held from July 27-29, 2022 in a hybrid onsite/virtual format hosted at the Massachusetts Institute of Technology (MIT) in Cambridge, MA. The focus of this year's conference is *applications and advances in electromagnetic modeling using Meep*. The three-day event consists of tutorials (July 27), technical talks (July 28), and a developer meeting (July 29). The conference is free of charge and open to the public via a live online broadcast. Registration is required (in-person capacity may be limited). All sessions for the tutorials and technical talks will be recorded and archived.
+The inaugural Meep user and developer conference (MeepCon) will be held from July 27-29, 2022 in a **hybrid** onsite/virtual format hosted at the Massachusetts Institute of Technology (MIT) in Cambridge, MA. The focus of this year's conference is *applications and advances in electromagnetic modeling using Meep*. The three-day event consists of tutorials (July 27), technical talks (July 28), and a developer meeting (July 29). The conference is free of charge and open to the public via a live online broadcast. Registration is required (in-person capacity may be limited). All sessions for the tutorials and technical talks will be recorded and archived.
 
 ## <a name="Speakers"></a> Confirmed Speakers
 
@@ -19,7 +19,7 @@ The inaugural Meep user and developer conference (MeepCon) will be held from Jul
 
 ## <a name="Location"></a> Location
 
-The conference will take place at [MIT](https://web.mit.edu/) in Cambridge, MA (capacity limited) and also virtually with a videoconference link provided to registered attendees.
+The conference will take place at [MIT](https://web.mit.edu/) in Cambridge, MA (capacity limited) and also virtually with a video conference link provided to registered attendees.
 
 Attendees must arrange their own accommodations/transport; see [Visiting MIT](https://www.mit.edu/visitmit/) for more information.  [MIT visitor passes](https://covidapps.mit.edu/visitors) will be provided to registered in-person attendees.
 
@@ -27,16 +27,16 @@ Attendees must arrange their own accommodations/transport; see [Visiting MIT](ht
 
 Day 1 - Wednesday July 27: Tutorial Workshops, 09:00-17:00 EDT
 
-|    **time**   |                              **session**                              |          **presenter**          |
-|:-------------:|:---------------------------------------------------------------------:|:-------------------------------:|
-| 09:00 - 10:15 |         Tutorial #1: Large-Scale Photonic Integrated Circuits         | Joaquin Matres Abril (X/Google) |
-| 10:15 - 10:30 |                              Coffee Break                             |                                 |
-| 10:30 - 11:45 |         Tutorial #2: Diffraction Efficiency of Binary Gratings        |     Ardavan Oskooi (Google)     |
-| 11:45 - 13:00 |                                 Lunch                                 |                                 |
-| 13:00 - 14:15 | Tutorial #3: Inverse Design of a Power Splitter for Silicon Photonics |   Alec Hammond (Georgia Tech)   |
-| 14:15 - 14:30 |                              Coffee Break                             |                                 |
-| 14:30 - 15:45 |           Tutorial #4: Inverse Design of a Metasurface Lens           |          Mo Chen (MIT)          |
-| 15:45 - 17:00 |                                  Q&A                                  |                                 |
+|    **time**   |                              **session**                              |          **presenter**         |
+|:-------------:|:---------------------------------------------------------------------:|:------------------------------:|
+| 09:00 - 10:15 |         Tutorial #1: Large-Scale Photonic Integrated Circuits         |    Joaquin Matres (X/Google)   |
+| 10:15 - 10:30 |                              Coffee Break                             |                                |
+| 10:30 - 11:45 |         Tutorial #2: Diffraction Efficiency of Binary Gratings        |     Ardavan Oskooi (Google)    |
+| 11:45 - 13:00 |                              Lunch Break                              |                                |
+| 13:00 - 14:15 | Tutorial #3: Inverse Design of a Power Splitter for Silicon Photonics | Alec M. Hammond (Georgia Tech) |
+| 14:15 - 14:30 |                              Coffee Break                             |                                |
+| 14:30 - 15:45 |           Tutorial #4: Inverse Design of a Metasurface Lens           |          Mo Chen (MIT)         |
+| 15:45 - 17:00 |                                  Q&A                                  |                                |
 
 
 Day 2 - Thursday July 28: Technical Talks, 09:00-17:00 EDT
@@ -75,6 +75,6 @@ Deadline for in-person registration is July 15, 2022.
 
 The Meep user and developer conference is a professional forum devoted to the growth and enhancement of the Meep open-source software package for electromagnetic simulation. This event is intended to be a collegial gathering of scientists and engineers who use Meep as part of their daily work involving photonics research and development as well as related technical fields.
 
-At all times, participants are expected to (1) behave in a respectful and courteous manner and (2) identify themselves using their real name and current affiliation. Questions and comments for the session speakers should be brief and to the point. Conduct that is deemed counterproductive to the objectives and sprit of the conference, including for example disruptions and use of inappropriate language, may be grounds for dismissal.
+At all times, participants are expected to (1) behave in a respectful and courteous manner and (2) identify themselves using their real name and current affiliation. Questions and comments for the session speakers should be brief and to the point. Conduct that is deemed counterproductive to the objectives and spirit of the conference, including for example disruptions and use of inappropriate language, may be grounds for dismissal.
 
 The organizers reserve the right to prohibit entry to anyone and to expel, at any time, any participant from the conference.
