@@ -14,7 +14,7 @@ The inaugural Meep user and developer conference (MeepCon) will be held from Jul
 - [Apratim Majumder](https://faculty.utah.edu/u0720363-Apratim_Majumder/hm/index.hml) (University of Utah) — Diffractive Structures for Imaging
 - [Mohammed Benzaouia](https://scholar.google.com/citations?user=cPqTYcwAAAAJ&hl=en) (Stanford University) — Laser Modeling and Analysis
 - [Kurt Busch](https://top.physik.hu-berlin.de/people/kurt-busch) (Humboldt University of Berlin) — Advances in Finite-Element Time-Domain Simulations
-- [Jordan C. Hanson](https://scholar.google.com/citations?user=WXC3DeEAAAAJ&hl=en) (Whittier College) — Broadband Radio-Frequency (RF) Antenna Phased Arrays
+- [Jordan C. Hanson](https://scholar.google.com/citations?user=WXC3DeEAAAAJ&hl=en) (Whittier College) — Broadband RF Phased Array Design with Meep
 - [Zin Lin](https://scholar.google.com/citations?user=3ZgzHLYAAAAJ&hl=en) (Virginia Tech) - [End-to-End Nanophotonic Inverse Design for Imaging and Polarimetry](https://doi.org/10.1515/nanoph-2020-0579)
 
 ## <a name="Location"></a> Location
