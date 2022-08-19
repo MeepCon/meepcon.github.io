@@ -3,7 +3,9 @@ layout: page
 ---
 ![Meep](/assets/img/meepcon_banner.png)
 
-The inaugural Meep user and developer conference (MeepCon) will be held from July 27-29, 2022 in a **hybrid** onsite/virtual format hosted at the Massachusetts Institute of Technology (MIT) in Cambridge, MA. The focus of this year's conference is *applications and advances in electromagnetic modeling using Meep*. The three-day event consists of tutorials (July 27), technical talks (July 28), and a developer meeting (July 29). The conference is free of charge and open to the public via a live online broadcast. Registration is required (in-person capacity may be limited). All sessions for the tutorials and technical talks will be recorded and archived.
+The inaugural Meep user and developer conference (MeepCon) was held from July 27-29, 2022 in a **hybrid** onsite/virtual format hosted at the Massachusetts Institute of Technology (MIT) in Cambridge, MA. The focus of this year's conference is *applications and advances in electromagnetic modeling using Meep*. The three-day event consisted of tutorials (July 27), technical talks (July 28), and a developer meeting (July 29). The conference is free of charge and open to the public via a live online broadcast. Registration is required (in-person capacity may be limited). All sessions for the tutorials and technical talks were recorded and [archived](https://www.youtube.com/channel/UC3lgcF_YFJUeBcx21ojfR6A).
+
+MIT News published a [recap article](https://news.mit.edu/2022/meepcon-comes-to-mit-0817) of the event.
 
 ## <a name="Speakers"></a> Confirmed Speakers
 
@@ -41,21 +43,20 @@ Day 1 - Wednesday July 27: Tutorial Workshops, 09:00-17:00 EDT
 
 Day 2 - Thursday July 28: Technical Talks, 09:00-17:00 EDT
 
-|    **time**   |                         **session**                        |            **presenter**            |
-|:-------------:|:----------------------------------------------------------:|:-----------------------------------:|
-| 09:00 - 09:45 |                  Introduction and Overview                 |       Steven G. Johnson (MIT)       |
-| 09:45 - 10:30 |          Topology Optimization and Inverse Design          |    Alec M. Hammond (Georgia Tech)   |
-| 10:30 - 10:45 |                        Coffee Break                        |                                     |
-| 10:45 - 11:15 |     Advances in Finite-Element Time-Domain Simulations     |  Kurt Busch (Humboldt U. of Berlin) |
-| 11:15 - 12:00 | End-to-End Nanophotonic Design for Imaging and Polarimetry |       Zin Lin (Virginia Tech)       |
-| 12:00 - 13:00 |                         Lunch Break                        |                                     |
-| 13:00 - 13:45 |                Quantum Integrated Photonics                |          Ryan Camacho (BYU)         |
-| 13:45 - 14:30 |             Diffractive Structures for Imaging             |      Apratim Majumder (U. Utah)     |
-| 14:30 - 14:45 |                        Coffee Break                        |                                     |
-| 14:45 - 15:30 |                 Laser Modeling and Analysis                |    Mohammed Benzaouia (Stanford)    |
-| 15:30 - 16:15 |    Broadband Radio-Frequency (RF) Antenna Phased Arrays    | Jordan C. Hanson (Whittier College) |
-| 16:15 - 16:25 |                       Closing Remarks                      |       Ardavan Oskooi (Google)       |
-
+|    **time**   |                                                              **session**                                                             |            **presenter**            |
+|:-------------:|:------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------:|
+| 09:00 - 09:45 |                         Introduction and Overview ([recording](https://www.youtube.com/watch?v=CFf6YbXbRd8))                         |       Steven G. Johnson (MIT)       |
+| 09:45 - 10:30 |                  Topology Optimization and Inverse Design ([recording](https://www.youtube.com/watch?v=9Dxq6Ly4HbE))                 |    Alec M. Hammond (Georgia Tech)   |
+| 10:30 - 10:45 |                                                             Coffee Break                                                             |                                     |
+| 10:45 - 11:15 |             Advances in Finite-Element Time-Domain Simulations ([recording](https://www.youtube.com/watch?v=2D5kCkAxRUI))            |  Kurt Busch (Humboldt U. of Berlin) |
+| 11:15 - 12:00 |         Ultra-compact Sensors Enabled by End-to-End Inverse Design ([recording](https://www.youtube.com/watch?v=ZRyzwtHq_SI))        |       Zin Lin (Virginia Tech)       |
+| 12:00 - 13:00 |                                                              Lunch Break                                                             |                                     |
+| 13:00 - 13:45 |                        Quantum Integrated Photonics ([recording](https://www.youtube.com/watch?v=aK0KPJQ4EH0))                       |          Ryan Camacho (BYU)         |
+| 13:45 - 14:30 | Ultra-compact Nanophotonic Devices and Diffractive Structures for Imaging ([recording](https://www.youtube.com/watch?v=VeCl5THchAA)) |      Apratim Majumder (U. Utah)     |
+| 14:30 - 14:45 |                                                             Coffee Break                                                             |                                     |
+| 14:45 - 15:30 |                        Laser Modeling and Analysis ([recording](https://www.youtube.com/watch?v=ut5Q_QFTQ9I))                        |    Mohammed Benzaouia (Stanford)    |
+| 15:30 - 16:15 |        Broadband Radio-Frequency (RF) Phased Array Design with Meep ([recording](https://www.youtube.com/watch?v=xfJjYeqwBnA))       | Jordan C. Hanson (Whittier College) |
+| 16:15 - 16:25 |                              Closing Remarks ([recording](https://www.youtube.com/watch?v=6jhM41UCcQI))                              |       Ardavan Oskooi (Google)       |
 
 Day 3 - Friday July 29: Developer Session/Hackathon, 09:00-17:00 EDT, (Detailed schedule provided to participants only)
 
