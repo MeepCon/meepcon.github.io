@@ -42,20 +42,20 @@ Day 1 - Wednesday July 27: Tutorial Workshops, 09:00-17:00 EDT
 
 Day 2 - Thursday July 28: Technical Talks, 09:00-17:00 EDT
 
-|    **time**   |                                                              **session**                                                             |            **presenter**            |
-|:-------------:|:------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------:|
-| 09:00 - 09:45 |                         Introduction and Overview ([recording](https://www.youtube.com/watch?v=CFf6YbXbRd8))                         |       Steven G. Johnson (MIT)       |
-| 09:45 - 10:30 |                  Topology Optimization and Inverse Design ([recording](https://www.youtube.com/watch?v=9Dxq6Ly4HbE))                 |    Alec M. Hammond (Georgia Tech)   |
-| 10:30 - 10:45 |                                                             Coffee Break                                                             |                                     |
-| 10:45 - 11:15 |             Advances in Finite-Element Time-Domain Simulations ([recording](https://www.youtube.com/watch?v=2D5kCkAxRUI))            |  Kurt Busch (Humboldt U. of Berlin) |
-| 11:15 - 12:00 |         Ultra-compact Sensors Enabled by End-to-End Inverse Design ([recording](https://www.youtube.com/watch?v=ZRyzwtHq_SI))        |       Zin Lin (Virginia Tech)       |
-| 12:00 - 13:00 |                                                              Lunch Break                                                             |                                     |
-| 13:00 - 13:45 |                        Quantum Integrated Photonics ([recording](https://www.youtube.com/watch?v=aK0KPJQ4EH0))                       |          Ryan Camacho (BYU)         |
-| 13:45 - 14:30 | Ultra-compact Nanophotonic Devices and Diffractive Structures for Imaging ([recording](https://www.youtube.com/watch?v=VeCl5THchAA)) |      Apratim Majumder (U. Utah)     |
-| 14:30 - 14:45 |                                                             Coffee Break                                                             |                                     |
-| 14:45 - 15:30 |                        Laser Modeling and Analysis ([recording](https://www.youtube.com/watch?v=ut5Q_QFTQ9I))                        |    Mohammed Benzaouia (Stanford)    |
-| 15:30 - 16:15 |        Broadband Radio-Frequency (RF) Phased Array Design with Meep ([recording](https://www.youtube.com/watch?v=xfJjYeqwBnA))       | Jordan C. Hanson (Whittier College) |
-| 16:15 - 16:25 |                              Closing Remarks ([recording](https://www.youtube.com/watch?v=6jhM41UCcQI))                              |       Ardavan Oskooi (Google)       |
+|    **time**   |                                                                    **session**                                                                   |            **presenter**            |
+|:-------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------:|
+| 09:00 - 09:45 |                               Introduction and Overview ([recording](https://www.youtube.com/watch?v=CFf6YbXbRd8))                               |       Steven G. Johnson (MIT)       |
+| 09:45 - 10:30 |          High-Performance Topology Optimization for Photonics Inverse Design ([recording](https://www.youtube.com/watch?v=9Dxq6Ly4HbE))          |    Alec M. Hammond (Georgia Tech)   |
+| 10:30 - 10:45 |                                                                   Coffee Break                                                                   |                                     |
+| 10:45 - 11:15 | Advances in Finite-Element Time-Domain Simulations: The DGTD Method in Nano-Photonics ([recording](https://www.youtube.com/watch?v=2D5kCkAxRUI)) |  Kurt Busch (Humboldt U. of Berlin) |
+| 11:15 - 12:00 |               Ultra-compact Sensors Enabled by End-to-End Inverse Design ([recording](https://www.youtube.com/watch?v=ZRyzwtHq_SI))              |       Zin Lin (Virginia Tech)       |
+| 12:00 - 13:00 |                                                                    Lunch Break                                                                   |                                     |
+| 13:00 - 13:45 |                              Quantum Integrated Photonics ([recording](https://www.youtube.com/watch?v=aK0KPJQ4EH0))                             |          Ryan Camacho (BYU)         |
+| 13:45 - 14:30 |        Ultracompact Nanophotonic Devices and Diffractive Structures for Imaging ([recording](https://www.youtube.com/watch?v=VeCl5THchAA))       |      Apratim Majumder (U. Utah)     |
+| 14:30 - 14:45 |                                                                   Coffee Break                                                                   |                                     |
+| 14:45 - 15:30 |                              Laser Modeling and Analysis ([recording](https://www.youtube.com/watch?v=ut5Q_QFTQ9I))                              |    Mohammed Benzaouia (Stanford)    |
+| 15:30 - 16:15 |                       Broadband RF Phased Array Design with MEEP ([recording](https://www.youtube.com/watch?v=xfJjYeqwBnA))                      | Jordan C. Hanson (Whittier College) |
+| 16:15 - 16:25 |                                    Closing Remarks ([recording](https://www.youtube.com/watch?v=6jhM41UCcQI))                                    |       Ardavan Oskooi (Google)       |
 
 Day 3 - Friday July 29: Developer Session/Hackathon, 09:00-17:00 EDT, (Detailed schedule provided to participants only)
 
